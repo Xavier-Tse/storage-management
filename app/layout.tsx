@@ -9,8 +9,8 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "UList",
-  description: "UList-在线网盘",
+  title: "StoreIt",
+  description: "StoreIt-在线网盘",
 };
 
 export default function RootLayout({
